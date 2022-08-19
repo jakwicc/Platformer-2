@@ -1,4 +1,4 @@
 # Platformer-2
-the platformer 2 of all time
+A platformer made in pygame where you can build or play custom and built in levels.
 
 download the zipped file
